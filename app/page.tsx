@@ -141,7 +141,7 @@ export default function IndexPage() {
       <div className="bg-radial-gradient flex flex-col gap-32 px-6 py-24 md:px-12">
         <section className="relative grid w-full grid-cols-1 gap-10 overflow-hidden lg:grid-cols-3 lg:gap-0">
           <h6 className="flex w-full justify-start text-xl uppercase text-orange lg:justify-center">
-            Who we are
+            Who we are:
           </h6>
           <div className="col-span-0 flex flex-col lg:col-span-1">
             <h3 className="text-3xl font-bold">
